@@ -1,3 +1,0 @@
-os: linux
-language: ruby
-script: echo 'tested'
